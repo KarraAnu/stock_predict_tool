@@ -1,0 +1,4 @@
+---
+training_stock: '^GSPC'
+num_hidden: 0
+

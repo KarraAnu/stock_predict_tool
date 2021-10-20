@@ -1,0 +1,7 @@
+---
+extract_data: True
+stocks: ['^GSPC']
+interval: '1d'
+visualize: False
+vis_data_name: '^GSPC'
+
